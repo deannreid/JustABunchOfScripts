@@ -1,0 +1,198 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager]
+"FeatureManagementEnabled"=dword:00000000
+"OemPreInstalledAppsEnabled"=dword:00000000
+"RotatingLockScreenEnabled"=dword:00000000
+"RotatingLockScreenOverlayEnabled"=dword:00000000
+"SilentInstalledAppsEnabled"=dword:00000000
+"SoftLandingEnabled"=dword:00000000
+"SubscribedContentEnabled"=dword:00000001
+"PreInstalledAppsEnabled"=dword:00000000
+"SystemPaneSuggestionsEnabled"=dword:00000000
+"RotatingLockScreenOverlayVisible"=dword:00000001
+"ContentDeliveryAllowed"=dword:00000001
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\CreativeEvents]
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\CreativeEvents\DefaultOemStartLayout]
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\CreativeEvents\DefaultStartLayout1]
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\CreativeEvents\DefaultStartLayout2]
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\CreativeEvents\FeatureManagement]
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\CreativeEvents\LockScreen]
+@=dword:00000000
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\CreativeEvents\LockScreenOverlay]
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\CreativeEvents\SilentInstalledApps]
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\CreativeEvents\SoftLanding]
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\CreativeEvents\StartMenu]
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\CreativeEvents\SubscribedContent-280797]
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\CreativeEvents\SubscribedContent-280810]
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\CreativeEvents\SubscribedContent-280811]
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\CreativeEvents\SubscribedContent-280812]
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\CreativeEvents\SubscribedContent-280813]
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\CreativeEvents\SubscribedContent-280817]
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\Health]
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\Health\Placement-1]
+@=hex:03,00,00,00,00,00,00,00,d1,29,8b,54,7c,ee,d1,01,6e,2f,4d,b6,84,ee,d1,01,\
+  b2,bc,5e,58,23,af,e7,01,00,00,00,00,00,00,00,00,e2,9e,e0,5a,7c,ee,d1,01,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,07,00,\
+  00,00,07,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00
+"HealthEvaluation"=hex:03,00,00,00,00,00,00,00,60,99,31,cb,2a,45,d2,01,02,00,\
+  00,00
+"PlacementReported"=hex:01,00,00,00,00,00,00,00,8f,de,03,e2,a5,ed,d1,01,75,b7,\
+  03,e2,a5,ed,d1,01,00,00,00,00,00,00,00,00,70,43,01,00
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\Health\Placement-10]
+"PlacementReported"=hex:03,00,00,00,00,00,00,00,91,2f,9e,3f,b6,44,d2,01,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+@=hex:03,00,00,00,00,00,00,00,25,d2,f9,41,b6,44,d2,01,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,01,00
+"HealthEvaluation"=hex:03,00,00,00,00,00,00,00,29,f9,32,cb,2a,45,d2,01,02,00,\
+  00,00
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\Health\Placement-11]
+"HealthEvaluation"=hex:03,00,00,00,00,00,00,00,18,d2,32,cb,2a,45,d2,01,02,00,\
+  00,00
+@=hex:03,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,5a,fe,42,f5,24,14,d2,01,\
+  a8,9d,1b,f5,24,14,d2,01,00,00,00,00,00,00,00,00,4f,79,53,cb,a4,0e,d2,01,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,05,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\Health\Placement-12]
+"HealthEvaluation"=hex:03,00,00,00,00,00,00,00,f0,aa,32,cb,2a,45,d2,01,02,00,\
+  00,00
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\Health\Placement-13]
+"HealthEvaluation"=hex:03,00,00,00,00,00,00,00,58,70,32,cb,2a,45,d2,01,00,00,\
+  00,00
+@=hex:03,00,00,00,00,00,00,00,e2,de,fb,29,ca,44,d2,01,83,c6,14,2a,ca,44,d2,01,\
+  8e,93,9c,77,b7,44,d2,01,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,01,00
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\Health\Placement-14]
+"HealthEvaluation"=hex:03,00,00,00,00,00,00,00,e5,83,32,cb,2a,45,d2,01,00,00,\
+  00,00
+@=hex:03,00,00,00,00,00,00,00,fd,cf,85,84,b7,44,d2,01,4a,45,86,84,b7,44,d2,01,\
+  81,25,5c,0c,b7,44,d2,01,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,01,00
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\Health\Placement-15]
+"HealthEvaluation"=hex:03,00,00,00,00,00,00,00,9c,e5,32,cb,2a,45,d2,01,02,00,\
+  00,00
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\Health\Placement-16]
+"HealthEvaluation"=hex:03,00,00,00,00,00,00,00,35,49,32,cb,2a,45,d2,01,02,00,\
+  00,00
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\Health\Placement-2]
+"HealthEvaluation"=hex:03,00,00,00,00,00,00,00,74,c0,31,cb,2a,45,d2,01,02,00,\
+  00,00
+@=hex:03,00,00,00,00,00,00,00,18,06,49,a0,6e,29,d2,01,b9,4a,73,ca,ee,2e,d2,01,\
+  10,63,e1,57,23,af,e7,01,00,00,00,00,00,00,00,00,56,fa,2a,a5,7c,ee,d1,01,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,05,00,\
+  00,00,02,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\Health\Placement-3]
+@=hex:01,00,00,00,00,00,00,00,9f,cb,a0,e6,da,c3,d1,01,f7,21,46,e6,da,c3,d1,01,\
+  3e,c0,cb,0e,5b,c9,d1,01,00,00,00,00,00,00,00,00,ed,d9,89,49,d9,c3,d1,01,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,05,00,00,00,02,00,00,00,00,00,\
+  00,00,00,00,00,00,01,00,00,00
+"HealthEvaluation"=hex:03,00,00,00,00,00,00,00,1f,22,32,cb,2a,45,d2,01,02,00,\
+  00,00
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\Health\Placement-4]
+@=hex:03,00,00,00,00,00,00,00,9f,a8,86,5c,4b,22,d2,01,08,8c,53,95,6c,22,d2,01,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"HealthEvaluation"=hex:03,00,00,00,00,00,00,00,1a,fb,31,cb,2a,45,d2,01,02,00,\
+  00,00
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\Health\Placement-5]
+@=hex:03,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  e3,a9,09,53,34,f2,d1,01,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"HealthEvaluation"=hex:03,00,00,00,00,00,00,00,97,37,31,cb,2a,45,d2,01,02,00,\
+  00,00
+"PlacementReported"=hex:01,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\Health\Placement-6]
+@=hex:03,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  67,3b,40,fb,8a,f0,d1,01,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"HealthEvaluation"=hex:03,00,00,00,00,00,00,00,24,4b,31,cb,2a,45,d2,01,02,00,\
+  00,00
+"PlacementReported"=hex:01,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\Health\Placement-7]
+"HealthEvaluation"=hex:03,00,00,00,00,00,00,00,0a,24,31,cb,2a,45,d2,01,02,00,\
+  00,00
+@=hex:03,00,00,00,00,00,00,00,f6,37,63,79,7f,ee,d1,01,d6,9c,fe,e0,fe,f3,d1,01,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,dc,73,7c,79,7f,ee,d1,01,ed,\
+  cc,77,79,7f,ee,d1,01,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,01,00,\
+  00,00,01,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\Health\Placement-8]
+"HealthEvaluation"=hex:03,00,00,00,00,00,00,00,e2,85,31,cb,2a,45,d2,01,02,00,\
+  00,00
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\Health\Placement-9]
+@=hex:03,00,00,00,00,00,00,00,f5,bb,7e,15,92,f0,d1,01,6b,0f,f3,e9,0a,f6,d1,01,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,0a,03,93,15,92,f0,d1,01,88,\
+  e7,8c,15,92,f0,d1,01,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,01,00,\
+  00,00,01,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00
+"HealthEvaluation"=hex:03,00,00,00,00,00,00,00,8d,e7,31,cb,2a,45,d2,01,02,00,\
+  00,00
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\Subscriptions]
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\Subscriptions\280810]
+"SubscriptionContext"="sc-error=1"
+"LastAccessed"=hex(b):77,43,35,cb,2a,45,d2,01
+"AccelerateCacheRefreshLastDetected"=hex(b):b5,21,a3,ca,2a,45,d2,01
+"AccelerateCacheRefreshLastHandled"=hex(b):6f,37,0c,33,80,35,d2,01
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\Subscriptions\280811]
+"SubscriptionContext"="sc-error=1"
+"LastAccessed"=hex(b):e9,d5,30,cb,2a,45,d2,01
+"AccelerateCacheRefreshLastDetected"=hex(b):d4,71,a2,ca,2a,45,d2,01
+"AccelerateCacheRefreshLastHandled"=hex(b):ee,d7,14,33,80,35,d2,01
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\Subscriptions\280813]
+"LastAccessed"=hex(b):d8,5a,fe,c8,a4,0e,d2,01
+"ContentId"="6928325951`O_4JMQAPEQQXEO`5`5r80sqp85s3794snop3o3q6n28678q49`37355`735368`5"
+"HasContent"=dword:00000001
+"UpdateDrivenByExpiration"=dword:00000000
+"LastUpdated"=hex(b):5c,1d,50,cb,a4,0e,d2,01
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\SuggestedApps]
+"9E2F88E3.Twitter_wgeqdkkx372wm"=dword:00000001
+"TrinityMirror.TheMirror-FREEEveryWeekday_472awwwxmcekw"=dword:00000001
+"AdobeSystemsIncorporated.AdobePhotoshopExpress_ynb6jyjzte8ga"=dword:00000001
+"king.com.CandyCrushSodaSaga_kgqvnymyfvs32"=dword:00000001
+"Microsoft.MinecraftUWP_8wekyb3d8bbwe"=dword:00000001
+"StaffPadLtd.StaffPad_bpr9sbycxtt68"=dword:00000001
